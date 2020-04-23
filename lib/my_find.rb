@@ -10,4 +10,4 @@ def my_find(collection)
   end
 end
 
-my_find([1,2,3,4]) alg1
+my_find([1,2,3,4]) {|element| puts element * element}
